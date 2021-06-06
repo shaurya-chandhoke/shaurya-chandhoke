@@ -21,7 +21,7 @@
 </table>
 
 <h3 align="center">Some Of The Stuff I'm Into:</h3>
-<h4 align="center">Machine Learning :brain: | Data Science :chart_with_upwards_trend: | Robotics :robot: | Web Development :earth_americas: | Philosophy :thought_balloon: | Art History :art:</h4>
+<h4 align="center">Machine Learning :brain: | Financial Engineering :chart_with_upwards_trend: | Robotics :robot: | Web Development :earth_americas: | Philosophy :thought_balloon: | Art History :art:</h4>
   
 ---
 
