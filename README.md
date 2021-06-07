@@ -7,23 +7,26 @@
     <td><img align="right" alt="Computer Gif" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/></td>
     <td><img align="right" alt="Computer Gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/></td>
   </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/schan-2040/">
-        <img src="https://github-readme-stats.vercel.app/api?username=schan-2040"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/schan-2040/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schan-2040"/>
-      </a>    
-    </td>
 </table>
 
+---
 <h3 align="center">Some Of The Stuff I'm Into:</h3>
 <h4 align="center">Machine Learning :brain: | Financial Engineering :chart_with_upwards_trend: | Robotics :robot: | Web Development :earth_americas: | Philosophy :thought_balloon: | Art History :art:</h4>
   
 ---
+
+<h3 align="center">Come Check Out My Projects!</h3>
+
+<div align="center">
+  
+| [The Computer Vision Toolset](https://github.com/users/schan-2040/projects/2) | [The Financial Engineering Toolset](https://github.com/users/schan-2040/projects/1) |
+|:--: |:--:|
+|![image](https://user-images.githubusercontent.com/38062430/120955812-3b239280-c720-11eb-8769-e2ed227ca620.png)| Preview Image Coming Soon |
+
+</div>  
+
+---
+
 
 <h3 align="center">My Experience</h3>
 
