@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shaurya :wave:</h1>
 
-<h2 align="center">I'm a Computer Science :computer: and Applied Statistics :bar_chart: student</h2>
+<h2 align="center">I'm a Machine Learning :computer: and Financial Engineering :bar_chart: student</h2>
 
 <table style="border: none">
   <tr>
