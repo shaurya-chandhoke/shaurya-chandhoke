@@ -21,7 +21,8 @@
   
 | [The Computer Vision Toolset](https://github.com/users/schan-2040/projects/2) | [The Financial Engineering Toolset](https://github.com/users/schan-2040/projects/1) |
 |:--: |:--:|
-|![image](https://user-images.githubusercontent.com/38062430/120955812-3b239280-c720-11eb-8769-e2ed227ca620.png)| Preview Image Coming Soon |
+|![image](https://user-images.githubusercontent.com/38062430/120955812-3b239280-c720-11eb-8769-e2ed227ca620.png)| ![image](https://user-images.githubusercontent.com/38062430/142704409-a7ac5fdb-f43f-41b7-a534-720ba72f51e3.png)
+ |
 
 </div>  
 
