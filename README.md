@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Shaurya :wave:</h1>
 
 <h2 align="center">I'm a Machine Learning :computer: and Financial Engineering :bar_chart: student</h2>
-
 <table style="border: none">
   <tr>
     <td><img align="right" alt="Computer Gif" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/></td>
@@ -15,6 +14,13 @@
   
 ---
 
+<h2 align="center">
+  <a href="https://schan-2040.github.io/" target="_blank">Come Check Out My Website!</a>
+</h2>
+
+![Screenshot 2021-12-19 173951](https://user-images.githubusercontent.com/38062430/146693480-67a05de6-312c-4d12-8b5e-f579347d6850.png)
+
+---
 <h3 align="center">Come Check Out My Projects!</h3>
 
 <div align="center">
