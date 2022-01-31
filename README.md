@@ -11,14 +11,6 @@
 ---
 <h3 align="center">Some Of The Stuff I'm Into:</h3>
 <h4 align="center">Machine Learning :brain: | Financial Engineering :chart_with_upwards_trend: | Robotics :robot: | Web Development :earth_americas: | Philosophy :thought_balloon: | Art History :art:</h4>
-  
----
-
-<h2 align="center">
-  <a href="https://schan-2040.github.io/" target="_blank">Come Check Out My Website!</a>
-</h2>
-
-![Screenshot 2021-12-19 173951](https://user-images.githubusercontent.com/38062430/146693480-67a05de6-312c-4d12-8b5e-f579347d6850.png)
 
 ---
 <h3 align="center">Come Check Out My Projects!</h3>
