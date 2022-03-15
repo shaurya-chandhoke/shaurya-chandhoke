@@ -14,7 +14,7 @@
 
 ---
 
-<h1 align="center"><a href="https://shaurya-chandhoke.github.io" target="_blank"> >>> My website is live, come check it out! <<<</a></h1>
+<h1 align="center"><a href="https://shaurya-chandhoke.github.io" target="_blank">My website is live, come check it out!</a></h1>
 
 ---
 <h3 align="center">Come Check Out My Projects!</h3>
