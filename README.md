@@ -1,12 +1,22 @@
-<h1 align="center">Hi there, I'm Shaurya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-                                              width="35px"></h1>
+<h2>Hi there, I'm Shaurya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
-<div style="display: flex; flex-flow: row nowrap; justify-content: space-around;">
-    <div style="order: 1; width: 500px">
-        I'm a full-time software engineer and part-time machine learning graduate student.
-    </div>
-    <div style="order: 2; width: 500px">
-        <img src="assets/data_analytics.gif" style="max-width: 100%; max-height: 100%;"
-             alt="A gif of a man looking at a computer screen while charts and graphs float around him and his computer screen.">
-    </div>
-</div>
+[![Linkedin: Shaurya](https://img.shields.io/badge/-Shaurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaurya-chandhoke/)](https://www.linkedin.com/in/shaurya-chandhoke/)
+[![GitHub follows](https://img.shields.io/github/followers/shaurya-chandhoke?label=follow&style=social)](https://github.com/shaurya-chandhoke)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://shaurya-chandhoke.github.io)](https://shaurya-chandhoke.github.io)
+
+<img align='right' src="https://user-images.githubusercontent.com/38062430/158521034-01b611dd-03fe-4fbe-b8cf-4893d084135e.gif" width="450">
+
+I'm a full time software engineer and part time machine learning graduate student. I'm really interested in researching ways to apply robust modeling algorithms towards applications in quantitative finance and algorithmic trading.
+
+
+Some of my interests
+
+<code>Machine Learning 🧠</code>
+<code>Financial Engineering 📈</code>
+<code>Robotics 🤖</code>
+
+<code>Web Development 🌎</code>
+<code>Philosophy 💭</code>
+<code>Art History 🎨</code>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shaurya-chandhoke&theme=white-blue)
