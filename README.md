@@ -13,9 +13,10 @@ Some of my interests
 
 <code>Machine Learning 🧠</code>
 <code>Financial Engineering 📈</code>
-<code>Robotics 🤖</code>
 
+<code>Robotics 🤖</code>
 <code>Web Development 🌎</code>
+
 <code>Philosophy 💭</code>
 <code>Art History 🎨</code>
 
