@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Shaurya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h2>Hi there, I'm Shaurya</h2>
 
 [![Linkedin: Shaurya](https://img.shields.io/badge/-Shaurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaurya-chandhoke/)](https://www.linkedin.com/in/shaurya-chandhoke/)
 [![GitHub follows](https://img.shields.io/github/followers/shaurya-chandhoke?label=follow&style=social)](https://github.com/shaurya-chandhoke)
