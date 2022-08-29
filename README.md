@@ -31,6 +31,11 @@ Some of my interests
 |:--: |:--:|
 |![image](https://user-images.githubusercontent.com/38062430/120955812-3b239280-c720-11eb-8769-e2ed227ca620.png)| ![image](https://user-images.githubusercontent.com/38062430/142704409-a7ac5fdb-f43f-41b7-a534-720ba72f51e3.png)
 
+| [The Game of Thrones Wiki Clone](https://github.com/users/shaurya-chandhoke/projects/8) |
+| :--: |
+| ![image](https://user-images.githubusercontent.com/38062430/187121917-1c218b00-30fc-4481-95c7-0a483565d109.png) |
+
+
 </div>
 
 <br>
