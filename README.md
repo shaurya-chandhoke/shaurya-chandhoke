@@ -6,7 +6,7 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/38062430/158521034-01b611dd-03fe-4fbe-b8cf-4893d084135e.gif" width="450">
 
-I'm a full time software engineer and part time machine learning graduate student. I'm really interested in researching ways to apply robust modeling algorithms towards applications in quantitative finance and algorithmic trading.
+I'm a full time software engineer and recent machine learning graduate. I'm really interested in researching ways to apply robust modeling algorithms towards applications in quantitative finance and algorithmic trading.
 
 
 Some of my interests
