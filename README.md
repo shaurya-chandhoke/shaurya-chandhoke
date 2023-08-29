@@ -24,9 +24,9 @@ Some of my interests
 <br>
 <br>
 
-<h3>Got Docker? Try running this</h3>
+### Got Docker? Try running this
 
-```sh
+```
 docker run -it --rm shauryachandhoke/resume-cli:v1
 ```
 
