@@ -22,13 +22,13 @@ Some of my interests
 
 
 <br>
+<br>
 
 <h3>Got Docker? Try running this</h3>
 
 ```sh
 docker run -it --rm shauryachandhoke/resume-cli:v1
 ```
-***
 
 <h3 align="center">Come Check Out My Projects!</h3>
 
