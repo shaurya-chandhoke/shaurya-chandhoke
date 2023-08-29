@@ -24,7 +24,7 @@ Some of my interests
 <br>
 <br>
 
-### Got Docker? Try running this
+### Got Docker? Try running this in your terminal!
 
 ```
 docker run -it --rm shauryachandhoke/resume-cli:v1
