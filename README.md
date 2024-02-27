@@ -3,6 +3,7 @@
 [![Linkedin: Shaurya](https://img.shields.io/badge/-Shaurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaurya-chandhoke/)](https://www.linkedin.com/in/shaurya-chandhoke/)
 [![GitHub follows](https://img.shields.io/github/followers/shaurya-chandhoke?label=follow&style=social)](https://github.com/shaurya-chandhoke)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://shaurya-chandhoke.github.io)](https://shaurya-chandhoke.github.io)
+![](https://komarev.com/ghpvc/?username=shaurya-chandhoke&color=blue)
 
 <img align='right' src="https://user-images.githubusercontent.com/38062430/158521034-01b611dd-03fe-4fbe-b8cf-4893d084135e.gif" width="450">
 
