@@ -27,8 +27,10 @@ Some of my interests
 
 ### Got Docker? Try running this in your terminal!
 
+#### 🎉 Now 92% smaller than v1 🎉
+> It used to be Rust-y, now it's...Python-y? Anyway check it out here!
 ```
-docker run -it --rm shauryachandhoke/resume-cli:v1
+docker run -it --rm shauryachandhoke/resume-cli
 ```
 
 <h3 align="center">Come Check Out My Projects!</h3>
