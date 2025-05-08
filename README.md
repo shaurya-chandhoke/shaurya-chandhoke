@@ -27,6 +27,8 @@ Some of my interests
 
 ### Got Docker? Try running this in your terminal!
 
+_Or check out the image → [here](https://hub.docker.com/r/shauryachandhoke/resume-cli)_
+
 #### 🎉 Now 92% smaller than v1 🎉
 > It used to be Rust-y, now it's...Python-y? Anyway check it out here!
 ```
